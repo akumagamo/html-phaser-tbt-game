@@ -3,7 +3,7 @@
 
 This is a try to create a hexagon Turn-based tactics game with phaser, loosey based on _"history line: 1914-1918"_
 
-![StartScreen](https://raw.githubusercontent.com/akumagamo/master/readme/tempgauge-plugin-screenshot.png "StartScreen")
+![StartScreen--placeholder-image](https://raw.githubusercontent.com/akumagamo/html-phaser-tbt-game/master/readme/screenshot_001.png "StartScreen--placeholder-image")
 
 ## Features
 * none
