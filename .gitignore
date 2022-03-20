@@ -1,2 +1,4 @@
 docs/*
-vendor/phaser/
+src/vendor/phaser/
+package.json
+project-management.md

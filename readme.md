@@ -1,7 +1,14 @@
 # Phaser: Hexagon Turn-based tactics
 ## Versionnumber 0.1.0 (2022-03-20)
 
-This is a try to create a hexagon Turn-based tactics game with phaser, loosey based on _"history line: 1914-1918"_
+This is a try to create a hexagon Turn-based tactics game with phaser, loosey based on _"history line: 1914-1918"_.  
+
+This is a project to explore the possibilities of ___Phaser3___ for creating a _turn-based-tactics_ game, and improve my own skills an knowledge of this framework. This Project will follow some simple rules/guidlines:   
+
+  * **K**eep **i**t **s**imple, **b**ut **a**daptable 
+  * Main Focus on Basic mechanics / MVP
+  * _2 weeks sprints/update_
+
 
 ![StartScreen--placeholder-image](https://raw.githubusercontent.com/akumagamo/html-phaser-tbt-game/master/readme/screenshot_001.png "StartScreen--placeholder-image")
 
@@ -9,7 +16,25 @@ This is a try to create a hexagon Turn-based tactics game with phaser, loosey ba
 * none
 
 ## Roadmap / Future Features
-* wip
+* Scene:
+    * Load/Splash Screen
+    * Menu Screen(s)
+    * Game Screen
+    * Battle Screen
+* Game Modes:
+    * AI - Player
+    * Two - Player
+    * Tutorial
+* Units:
+    * Land
+    * Air
+    * Sea
+* Terrrain / Maps
+* Levels:
+    * Tutorial?
+    * Level 1
+    * Level 2
+    * Level 3
 
 ## Known Bugs
 * none 
